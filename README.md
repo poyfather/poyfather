@@ -37,9 +37,11 @@ Most of what I write turns brand standards, policies, and tribal knowledge into 
 - **Boring infrastructure on purpose.** Postgres, Docker, and a test script before anything clever.
 - **Reversible changes.** Log what you removed, keep the backup, and leave a way back.
 
+<!-- Enable after adding the METRICS_TOKEN secret and a successful Metrics workflow run:
 ## GitHub activity
 
 ![Metrics](./github-metrics.svg)
+-->
 
 ## Connect
 

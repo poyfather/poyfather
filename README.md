@@ -1,4 +1,4 @@
-# Hi, I'm Troy 
+# Howdy!
 
 I build small, sometimes useful tools that make AI assistants useful at home and work: prompt libraries, MCP servers, and Claude skills that encode how a team really operates.
 

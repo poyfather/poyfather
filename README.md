@@ -1,13 +1,13 @@
-# Hi, I'm Troy 👋
+# Hi, I'm Troy 
 
-I build small, sharp tools that make AI assistants useful at work: prompt libraries, MCP servers, and Claude skills that encode how a team really operates.
+I build small, sometimes useful tools that make AI assistants useful at home and work: prompt libraries, MCP servers, and Claude skills that encode how a team really operates.
 
-Most of what I write turns brand standards, policies, and tribal knowledge into things a model can follow. The rest is me automating whatever is annoying me. Lately that has been a Samsung TV.
+Most of what I write turns brand standards, policies, and tribal knowledge into things a model can follow. The rest is me automating whatever is annoying me.
 
 ## What I'm working on
 
 - **gemsAPI**: a self-hosted prompt library. Prompts ("gems") compose recursively, live in Supabase, and are reachable over REST or MCP from Claude Desktop, Cursor, or plain code.
-- **Claude skills for real teams**: packaging brand, compliance, and workflow knowledge so the assistant gets it right the first time instead of the fifth.
+- **Claude skills for teams**: packaging brand, compliance, and workflow knowledge so the assistant gets it right the first time instead of the fifth.
 - **Debloating a 2018 Samsung NU8000**: stripping the stock apps and swapping in a cleaner launcher, with every removal logged so it can be undone.
 
 ## Tech stack

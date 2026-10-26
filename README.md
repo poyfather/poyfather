@@ -28,7 +28,7 @@ Most of what I write turns brand standards, policies, and tribal knowledge into 
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [gemsAPI](https://github.com/poyfather/gemsAPI) | Prompt library with recursive gem composition and REST + MCP access | FastAPI, FastMCP, Next.js, Supabase |
+| [Lapidary](https://github.com/poyfather/lapidary) | Self-hosted prompt console for Windows 11
 
 ## How I work
 

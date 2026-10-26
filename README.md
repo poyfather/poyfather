@@ -19,6 +19,9 @@ Most of what I write turns brand standards, policies, and tribal knowledge into 
 ![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=gnubash&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
@@ -28,7 +31,7 @@ Most of what I write turns brand standards, policies, and tribal knowledge into 
 
 | Project | What it is | Built with |
 | --- | --- | --- |
-| [Lapidary](https://github.com/poyfather/lapidary) | Self-hosted prompt console for Windows 11
+| [Lapidary](https://github.com/poyfather/lapidary) | Self-hosted prompt console for Windows 11 | Python, FastAPI, FastMCP, Next.js, TypeScript, Electron, SQLite or Supabase, Ollama, PowerShell 7 |
 
 ## How I work
 

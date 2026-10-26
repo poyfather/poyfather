@@ -6,7 +6,7 @@ Most of what I write turns brand standards, policies, and tribal knowledge into 
 
 ## What I'm working on
 
-- **gemsAPI**: a self-hosted prompt library. Prompts ("gems") compose recursively, live in Supabase, and are reachable over REST or MCP from Claude Desktop, Cursor, or plain code.
+- **Lapidary**: Create your best prompts once, improve them with tests, turn them into assistants, and use them from Claude, ChatGPT, Cursor and Open WebUI, on a free local model or your own key. Self-hosted, with a Windows 11 console.
 - **Claude skills for teams**: packaging brand, compliance, and workflow knowledge so the assistant gets it right the first time instead of the fifth.
 - **Debloating a 2018 Samsung NU8000**: stripping the stock apps and swapping in a cleaner launcher, with every removal logged so it can be undone.
 
